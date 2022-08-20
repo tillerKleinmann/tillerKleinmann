@@ -5,6 +5,10 @@
 -     - Fractional Calculus
 -     - Locally Convex Spaces
 -     - Riemannian Geometry
+    - Music:
+      - Drumming
+      - Composing
+      - Uneven measures
 - 
 - 🌱 I’m currently writting my PhD thesis.
 -
