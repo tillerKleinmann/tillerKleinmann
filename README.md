@@ -10,9 +10,9 @@
      - Composing
      - Uneven measures
 
-🌱 I’m currently writting my PhD thesis.
+🌱 I’m recently submitted the manuscript of my PhD Thesis.
 
-I developed the Spider Hydra Algorithm.
+I developed the Spider Hydra Algorithm, that I am planing to in near future...
 
 💞️ I’m looking to collaborate on Mathematics und Computer Game Developement.
 
