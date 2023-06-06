@@ -10,7 +10,7 @@
      - Composing
      - Uneven measures
 
-🌱 I’m recently submitted the manuscript of my PhD Thesis.
+🌱 I have submitted the manuscript of my PhD Thesis recently.
 
 I developed the Spider Hydra Algorithm, that I am planing to in near future...
 
